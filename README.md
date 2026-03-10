@@ -47,3 +47,7 @@ dashboard/
 
 output/
     Final processed dataset used for visualization
+
+## Dashboard Preview
+
+![Dashboard](dashboard1.png/dashboard2.png)
