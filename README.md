@@ -50,4 +50,4 @@ output/
 
 ## Dashboard Preview
 
-![Dashboard](dashboard1.png/dashboard2.png)
+![Dashboard](images/dashboard1.png)
