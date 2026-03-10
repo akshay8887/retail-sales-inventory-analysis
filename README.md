@@ -50,4 +50,8 @@ output/
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard1.png)
+### Executive Overview
+![Dashboard](images/dashboard_overview.png)
+
+### Inventory Risk
+![Dashboard](images/inventory_risk.png)
